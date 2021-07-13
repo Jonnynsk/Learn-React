@@ -2,6 +2,8 @@
 
 *npx create-react-app my-app*
 
+## React
+
  JavaScript-библиотека с открытым исходным кодом для разработки пользовательских интерфейсов.
  
  ## Component 
